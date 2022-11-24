@@ -13,7 +13,7 @@ public class device {
 //////Custom default no argument constructor
  device() {}
 
-//parameterized constructor
+//////////parameterized constructor
  device (String brand,String model,String color, int stock){
 
     this.brand = brand;
