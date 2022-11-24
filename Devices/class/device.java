@@ -30,7 +30,7 @@ public class device {
 	 stock = 1;
 	}
  
-//Device information printer
+////Device information printer
 public void info() {
   
     
